@@ -6,11 +6,12 @@
 <p> Loop control statements in C are used to perform looping operations until the given condition is true. Control comes out of the loop statements once condition becomes false. </p>
 TYPES OF LOOP CONTROL STATEMENTS IN C:
 There are 3 types of loop control statements in C language. They are,<br>
+<p>
         1. for <br>
         2. while <br>
         3. dowhile <br>
         Syntax for each C loop control statements are<br>
-        <img src="Screenshot (18).png" height="350" width="500" align="center">
+        <img src="Screenshot (18).png" height="350" width="500" align="center"></p>
 <h2> EXAMPLE PROGRAM (FOR LOOP) IN C: </h2>
     In for loop control statement, loop is executed until condition becomes false.<br>
 <img src="FOR.png" height="150" width="400" align="center">
