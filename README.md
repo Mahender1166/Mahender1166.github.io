@@ -1,6 +1,6 @@
 
  <h1 align="center"> C – Loop control statements </h1>
- <h3>C (programming language)</h3>
+ <h2>C (programming language)</h2>
  <p>The C programming language is a computer programming language that was developed to do system programming for the operating system       UNIX and is an imperative programming language. C was developed in the early 1970s by Ken Thompson and Dennis Ritchie at Bell Labs.</p>
 <h3>Loop control statements</h3>
 <p> Loop control statements in C are used to perform looping operations until the given condition is true. Control comes out of the loop statements once condition becomes false. </p>
