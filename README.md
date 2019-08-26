@@ -10,25 +10,25 @@ TYPES OF LOOP CONTROL STATEMENTS IN C:<p></p>There are 3 types of loop control s
         2.while<br>
         3.do while <br>
         Syntax for each C loop control statements are<br>
-        <img src="Screenshot (18).png" height="300" width="200" align="center">
+        <img src="Screenshot (18).png" height="300" width="400" align="center">
 
 <h2> EXAMPLE PROGRAM (FOR LOOP) IN C: </h2>
 In for loop control statement, loop is executed until condition becomes false.<br>
-<img src="FOR.png" height="300" width="200" align="center">
+<img src="FOR.png" height="150" width="200" align="center">
 
 OUTPUT: <br>
 0 1 2 3 4 5 6 7 8 9 <br>
 
 <h2> EXAMPLE PROGRAM (WHILE LOOP) IN C: </h2>
 In while loop control statement, loop is executed until condition becomes false.<br>
-<img src="while.png" height="300" width="200" align="center">
+<img src="while.png" height="150" width="200" align="center">
 
 OUTPUT:<br>
 3 4 5 6 7 8 9 <br>
 
 <h2> EXAMPLE PROGRAM (DO WHILE LOOP) IN C: </h2>
 In do..while loop control statement, while loop is executed irrespective of the condition for first time. Then 2nd time onwards, loop is executed until condition becomes false.<br>
-<img src="dowhile.png" height="300" width="200" align="center">
+<img src="dowhile.png" height="150" width="200" align="center">
 
 OUTPUT: <br>
 Value of i is 1 <br>
@@ -37,7 +37,7 @@ Value of i is 3 <br>
 Value of i is 4 <br>
 
 <h2> DIFFERENCE BETWEEN WHILE & DO WHILE LOOPS IN C LANGUAGE: </h2>
-<img src="differences.png" height="300" width="200" align="center">
+<img src="differences.png" height="150" width="200" align="center">
 
 <h2>References:</h2>
 <h2>Learnt looping statements from </h2><a href="https://fresh2refresh.com/c-programming/c-loop-control-statements/"> https://fresh2refresh.com/c-programming/c-loop-control-statements/  </a><br> 
