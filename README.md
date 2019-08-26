@@ -40,8 +40,12 @@ Value of i is 4 <br>
 <img src="differences.png" height="150" width="400" align="center">
 
 <h2>References:</h2>
-<h2>Learnt looping statements from </h2><a href="https://fresh2refresh.com/c-programming/c-loop-control-statements/"> https://fresh2refresh.com/c-programming/c-loop-control-statements/  </a><br> 
-<a href="https://simple.m.wikipedia.org/wiki/C_(programming_language)">https://simple.m.wikipedia.org/wiki/C_(programming_language)</a> <br> 
-<h2> Follow me on Facebook </h2><a href="https://www.facebook.com/mahender1414 ">https://www.facebook.com/mahender1414 Follow me on Instagram </a> <br> 
-<h2>Subscribe my youtube channel for more updates</h2><a href="https://www.youtube.com/channel/UCU-jvOwk3MCw-6DEfLpTn5A?view_as=subscriber">https://www.youtube.com/channel/UCU-jvOwk3MCw-6DEfLpTn5A?view_as=subscriber Subscribe my youtube channel for more updates</a>  <br> 
-<h2> Connect with me on linkedin  </h2><a href="https://www.linkedin.com/in/mahenderreddy-surkanti-91315015a/">https://www.linkedin.com/in/mahenderreddy-surkanti-91315015a/ </a> <br> 
+<h2>Learnt looping statements from </h2>
+- <a href="https://fresh2refresh.com/c-programming/c-loop-control-statements/"> https://fresh2refresh.com/c-programming/c-loop-control-statements/  </a><br> 
+- <a href="https://simple.m.wikipedia.org/wiki/C_(programming_language)">https://simple.m.wikipedia.org/wiki/C_(programming_language)</a> <br> 
+<h2> Follow me on Facebook </h2>
+- <a href="https://www.facebook.com/mahender1414 ">https://www.facebook.com/mahender1414 Follow me on Instagram </a> <br> 
+<h2>Subscribe my youtube channel for more updates</h2>
+- <a href="https://www.youtube.com/channel/UCU-jvOwk3MCw-6DEfLpTn5A?view_as=subscriber">https://www.youtube.com/channel/UCU-jvOwk3MCw-6DEfLpTn5A?view_as=subscriber Subscribe my youtube channel for more updates</a>  <br> 
+<h2> Connect with me on linkedin  </h2>
+- <a href="https://www.linkedin.com/in/mahenderreddy-surkanti-91315015a/">https://www.linkedin.com/in/mahenderreddy-surkanti-91315015a/ </a> <br> 
