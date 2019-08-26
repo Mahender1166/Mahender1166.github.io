@@ -1,4 +1,3 @@
-# Mahender1166.github.io
 
  <h1 align="center"> C – Loop control statements </h1>
  <h2>C (programming language)</h2>
