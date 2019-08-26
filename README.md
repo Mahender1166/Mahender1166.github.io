@@ -18,7 +18,6 @@ There are 3 types of loop control statements in C language. They are,<br>
 </p>
 OUTPUT: <br>
 0 1 2 3 4 5 6 7 8 9 <br>
-
 <h4> EXAMPLE PROGRAM (WHILE LOOP) IN C: </h4>
 In while loop control statement, loop is executed until condition becomes false.<br>
 <img src="while.png" height="150" width="400" align="center">
