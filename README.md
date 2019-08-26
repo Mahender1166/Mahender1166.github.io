@@ -12,21 +12,21 @@ There are 3 types of loop control statements in C language. They are,<br>
         3. dowhile <br>
         Syntax for each C loop control statements are<br>
         <img src="Screenshot (18).png" height="350" width="500" align="center"></p>
-<h6> EXAMPLE PROGRAM (FOR LOOP) IN C: </h6>
+<h4> EXAMPLE PROGRAM (FOR LOOP) IN C: </h4>
    <p> In for loop control statement, loop is executed until condition becomes false.<br>
 <img src="FOR.png" height="150" width="400" align="center">
 </p>
 OUTPUT: <br>
 0 1 2 3 4 5 6 7 8 9 <br>
 
-<h6> EXAMPLE PROGRAM (WHILE LOOP) IN C: </h6>
+<h4> EXAMPLE PROGRAM (WHILE LOOP) IN C: </h4>
 In while loop control statement, loop is executed until condition becomes false.<br>
 <img src="while.png" height="150" width="400" align="center">
 
 OUTPUT:<br>
 3 4 5 6 7 8 9 <br>
 
-<h6> EXAMPLE PROGRAM (DO WHILE LOOP) IN C: </h6>
+<h4> EXAMPLE PROGRAM (DO WHILE LOOP) IN C: </h4>
 In do..while loop control statement, while loop is executed irrespective of the condition for first time. Then 2nd time onwards, loop is executed until condition becomes false.<br>
 <img src="dowhile.png" height="150" width="400" align="center">
 
@@ -36,16 +36,16 @@ OUTPUT: <br>
 - Value of i is 3 <br>
 - Value of i is 4 <br>
 
-<h6> DIFFERENCE BETWEEN WHILE & DO WHILE LOOPS IN C LANGUAGE: </h6>
+<h4> DIFFERENCE BETWEEN WHILE & DO WHILE LOOPS IN C LANGUAGE: </h4>
 <img src="differences.png" height="150" width="400" align="center">
 
-<h3>References:</h3>
-<h6>Learnt looping statements from </h6>
+<h2>References:</h2>
+<h4>Learnt looping statements from </h4>
 <a href="https://fresh2refresh.com/c-programming/c-loop-control-statements/"> https://fresh2refresh.com/c-programming/c-loop-control-statements/  </a><br> 
 <a href="https://simple.m.wikipedia.org/wiki/C_(programming_language)">https://simple.m.wikipedia.org/wiki/C_(programming_language)</a> <br> 
-<h6> Follow me on Facebook </h6>
+<h4> Follow me on Facebook </h4>
 <a href="https://www.facebook.com/mahender1414 ">https://www.facebook.com/mahender1414 Follow me on Instagram </a> <br> 
-<h6>Subscribe my youtube channel for more updates</h6>
+<h4>Subscribe my youtube channel for more updates</h4>
 <a href="https://www.youtube.com/channel/UCU-jvOwk3MCw-6DEfLpTn5A?view_as=subscriber">https://www.youtube.com/channel/UCU-jvOwk3MCw-6DEfLpTn5A?view_as=subscriber Subscribe my youtube channel for more updates</a>  <br> 
-<h6> Connect with me on linkedin  </h6>
+<h4> Connect with me on linkedin  </h4>
 <a href="https://www.linkedin.com/in/mahenderreddy-surkanti-91315015a/">https://www.linkedin.com/in/mahenderreddy-surkanti-91315015a/ </a> <br> 
