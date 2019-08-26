@@ -13,9 +13,9 @@ There are 3 types of loop control statements in C language. They are,<br>
         Syntax for each C loop control statements are<br>
         <img src="Screenshot (18).png" height="350" width="500" align="center"></p>
 <h2> EXAMPLE PROGRAM (FOR LOOP) IN C: </h2>
-    In for loop control statement, loop is executed until condition becomes false.<br>
+   <p> In for loop control statement, loop is executed until condition becomes false.<br>
 <img src="FOR.png" height="150" width="400" align="center">
-
+</p>
 OUTPUT: <br>
 0 1 2 3 4 5 6 7 8 9 <br>
 
